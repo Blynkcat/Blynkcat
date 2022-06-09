@@ -1,6 +1,6 @@
 <h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
-  Hello,World!
+  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="20px"> 
+  Hello everyone!
   <img alt="Earth" src="https://raw.githubusercontent.com/Ariz-z/Ariz-z/main/earth.gif" width="24px"/>
 </h2>
 <h2 align="center">
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://instagram.com/aakash4301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash4301" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UC8UDz_IRwUDuIcKf3zraNWQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fusion gamming" height="30" width="40" /></a>
-<a href="https://discord.gg/pokemonbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pokemonbot" height="30" width="40" /></a>
+<a href="https://discord.gg/yZBwSQApCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pokemonbot" height="30" width="40" /></a>
 </p>
 <hr/>
 <h2 align="center">About</h2>
