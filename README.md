@@ -19,7 +19,7 @@
     <br><br>
     - 🌱 I’m currently learning Java,Html,arduino
     <br><br>
-    - 🤔 I’m looking for help with java
+    - 🤔 I’m looking for help with learning new skills
     <br><br>
     - ⚡ Fun fact: I am still confused what i want to do. XD
     <br><br>
@@ -52,7 +52,7 @@
 </p>
 <hr/>
 <p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+  <img align="center" alt="OnePiece_Luffy" src="https://github.com/Blynkcat/Blynkcat/blob/main/test5.gif"/>
 </p>
 <p align="center">
   Made with ❤️ in India
