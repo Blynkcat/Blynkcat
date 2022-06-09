@@ -37,7 +37,7 @@
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <hr/>
 <p align="center">
-  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ariz-z&show_icons=true&show_icons=true&theme=radical"  />
+  <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blynkcat&show_icons=true&show_icons=true&theme=radical"  />
 </p>
 <br/>
 <h2 align="center">Find me on</h2>
