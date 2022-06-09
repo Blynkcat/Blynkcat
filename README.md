@@ -42,7 +42,7 @@
 <br/>
 <h2 align="center">Find me on</h2>
 <p align="center">
-  <a href="https://discord.gg/pokemonbot">
+  <a href="https://discord.gg/yZBwSQApCd">
     <img alt="Discord" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Discord_Color_Text_Logo.svg/512px-Discord_Color_Text_Logo.svg.png"/>
      <br>
      <a href="https://github.com/Ariz-z">
