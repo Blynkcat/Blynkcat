@@ -31,8 +31,8 @@
 </p>
 <hr/>
 <h2 align="center">About</h2>
-- **Platforms :** Windows and Linux
-- **Languages :** <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+- **Platforms :** Windows 
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/>
 <hr/>
 <p align="center">
   <img align="center" alt="Ariz Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blynkcat&show_icons=true&show_icons=true&theme=radical"  />
