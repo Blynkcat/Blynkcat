@@ -21,7 +21,7 @@
     <br><br>
     - 🤔 I’m looking for help with learning new skills
     <br><br> 
-    - ⚡ Fun fact: I am still confused what i want to do. xd [Twitter - @subhran2001](https://twitter.com/subhran2001)
+    - ⚡ Fun fact: I am still confused what i want to do. xd 
     <br><br>
   </samp>
 </p>
