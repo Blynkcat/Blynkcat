@@ -20,14 +20,14 @@
     - 🌱 I’m currently learning Java,Html,arduino
     <br><br>
     - 🤔 I’m looking for help with learning new skills
-    <br><br>
-    - ⚡ Fun fact: I am still confused what i want to do. XD
+    <br><br> 
+    - ⚡ Fun fact: I am still confused what i want to do. xd [Twitter - @subhran2001](https://twitter.com/subhran2001)
     <br><br>
   </samp>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/yZBwSQApCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pokemonbot" height="30" width="40" /></a>
+<a href="https://discord.gg/yZBwSQApCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="..." height="30" width="40" /></a>
 </p>
 <hr/>
 <h2 align="center">About</h2>
